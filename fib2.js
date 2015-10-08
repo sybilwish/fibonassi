@@ -1,3 +1,10 @@
+/**
+ * add a comment
+ */
+function function_name (a,b) {
+	return a+b;
+}
+
 jQuery(document).ready(function($) {
   $("form").on("submit", function(e){
     e.preventDefault();
